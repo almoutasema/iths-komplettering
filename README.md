@@ -1,12 +1,11 @@
 # iths-komplettering
-**Instruction:** Fork this repository. Create a Pull request once you are ready to merge your changes
-
-## 
-
-## Part 1: Git, GitHub Issues & Projects
+**Instruction:** Fork this repository. Follow and complete the steps in the instructions below. Create a Pull request once you are ready to merge your changes. Make use of your schedulued coaching sessions to better understand the assignment and get feedback on your work. That way we can make sure you reach your target goal (G/VG)!
 
 ## Prerequisite
 Before you get started, complete the git [exercises](https://www.w3schools.com/git/git_exercises.asp?remote=github) and [quiz](https://www.w3schools.com/git/git_quiz.asp?remote=github) on w3schools.com. I want proof of completion so that I can assert that you have a basic knowledge of git. Either take screenshots of your results directly orintegrate the results with LinkedIn, then take screenshots and email me/send to me on Teams to verify that you completed both tasks. 
+Envision a project that we will use for your Github Issues, Project and Trello Scrum Board. You will not have to realise the project in code, the purpose is merely to demonstrate your agile project management skills.
+
+## Part 1: Git, GitHub Issues & Projects
 
 >**Note**
 >In order to complete these steps you will have to first complete the git [tutorial on Wc3Schools](https://www.w3schools.com/git/default.asp) which is part of your assignment. This instruction tests your understanding of the concepts explained in the tutorial section "Git Contribute".  
@@ -31,5 +30,9 @@ Before you get started, complete the git [exercises](https://www.w3schools.com/g
 - [ ] Reference the Presentations (especially "Föreläsning 3") on "ITHS Distans kursum" go get started with agile project management, Scrum and Trello.
 
 **Scrum Board**
-Pretend we are mid-sprint during the second sprint iteration of our scrum project. Use the Epic (at least one) and User Stories (at least two) and add the to you Trello Scrum board (use the powerup GitHub integration option OR recreate them using complete Trello cards). 
-Put at least one of your User stories in the Done state (List in Trello) 
+Imagine we are mid-sprint during the second sprint iteration of our scrum project. Use the Epic (at least one) and User Stories (at least two) and add the to you Trello Scrum board (use the powerup GitHub integration option **OR** recreate them using complete Trello cards). 
+Put at least one of your User stories in the Done state (List in Trello), remember to assign Story Points (tip, use the powerup).
+Create additional cards and use your remaining Stories/tasks to distribute across the board's workflow states as if we were mid-sprint during the second sprint event. Reference the study material and ask me for feedback during your scheduled coaching sessions (tuesdays). Best of luck to you! 🥳
+
+ 
+
