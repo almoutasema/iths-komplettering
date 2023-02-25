@@ -34,5 +34,14 @@ Imagine we are mid-sprint during the second sprint iteration of our scrum projec
 Put at least one of your User stories in the Done state (List in Trello), remember to assign Story Points (tip, use the powerup).
 Create additional cards and use your remaining Stories/tasks to distribute across the board's workflow states as if we were mid-sprint during the second sprint event. Reference the study material and ask me for feedback during your scheduled coaching sessions (tuesdays). Best of luck to you! 🥳
 
- 
+## Part 3: VG (Optional)
+- 3-5 pages
+- font size: 12ppt
+- row-distance: 1.5
+
+In the list of criteria for the grade VG you must demonstrate a higher understanding of the koncepts in Part 1 & 2 of this assignment.
+In addition to doing a well enough job with parts 1 & 2, you will have to submit a written report covering the main responsibilities of the Scrum Team roles during the Scrum Events. I also want you to write your reflection on why and how Git, GitHub, Trello and Agile Project Management increases value and reduces waste by each iteration in a Scrum team.
+
+
+Please reach out to me during the coaching sessions if you're in need of any assistance! :-)
 
