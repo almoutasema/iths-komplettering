@@ -5,7 +5,7 @@ Instruction: Fork this repository. Create a Pull request once you are ready to m
 
 - [ ] Fork this repository: In top right corner click on: `Fork > Create a new fork`
 - [ ] In your forked repository, open `index.html`.
-- [ ] Add a new list item with a link to **a separate** repository which you later will use to demonstrate you knowledge of how to use [GitHub Issues]() and [Projects](), just like in the example below:
+- [ ] Add a new list item with a link to **a separate** repository which you later will use to demonstrate you knowledge of how to use [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) and [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects), just like in the example below:
   ```html
   <ul>
   <li><a href="https://github.com/JacobMcElhinney/iths-projekt-i-team/issues">Jacob's example repository</a></li>
