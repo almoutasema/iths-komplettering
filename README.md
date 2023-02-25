@@ -2,6 +2,8 @@
 Instruction: Fork this repository. Create a Pull request once you are ready to merge your changes
 
 ## Instruction
+>**Note**
+>In order to complete these steps you will have to first complete the git [tutorial on Wc3Schools](https://www.w3schools.com/git/default.asp) which is part of your assignment. This instruction tests your understanding of the concepts explained in the tutorial section "Git Contribute".  
 
 - [ ] Fork this repository: In top right corner click on: `Fork > Create a new fork`
 - [ ] In your forked repository, open `index.html`.
