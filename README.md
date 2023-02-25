@@ -1,5 +1,5 @@
 # iths-komplettering
-Instruction: Fork this repository. Create a Pull request once you are ready to merge your changes
+**Instruction:** Fork this repository. Create a Pull request once you are ready to merge your changes
 
 ## Instruction
 >**Note**
