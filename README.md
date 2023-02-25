@@ -2,7 +2,7 @@
 **Instruction:** Fork this repository. Follow and complete the steps in the instructions below. Create a Pull request once you are ready to merge your changes. Make use of your schedulued coaching sessions to better understand the assignment and get feedback on your work. That way we can make sure you reach your target goal (G/VG)!
 
 ## Prerequisite
-Before you get started, complete the git [exercises](https://www.w3schools.com/git/git_exercises.asp?remote=github) and [quiz](https://www.w3schools.com/git/git_quiz.asp?remote=github) on w3schools.com. I want proof of completion so that I can assert that you have a basic knowledge of git. Either take screenshots of your results directly orintegrate the results with LinkedIn, then take screenshots and email me/send to me on Teams to verify that you completed both tasks. 
+Before you get started, complete the git [exercises](https://www.w3schools.com/git/git_exercises.asp?remote=github) and [quiz](https://www.w3schools.com/git/git_quiz.asp?remote=github) on w3schools.com. I want proof of completion so that I can assert that you have a basic knowledge of git. Either take screenshots of your results directly orintegrate the results with LinkedIn, then **take screenshots** and email me/send to me on Teams **to verify that you completed both tasks**. 
 Envision a project that we will use for your Github Issues, Project and Trello Scrum Board. You will not have to realise the project in code, the purpose is merely to demonstrate your agile project management skills.
 
 ## Part 1: Git, GitHub Issues & Projects
