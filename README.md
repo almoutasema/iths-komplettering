@@ -43,5 +43,5 @@ In the list of criteria for the grade VG you must demonstrate a higher understan
 In addition to doing a well enough job with parts 1 & 2, you will have to submit a written report covering the main responsibilities of the Scrum Team roles during the Scrum Events. I also want you to write your reflection on why and how Git, GitHub, Trello and Agile Project Management increases value and reduces waste by each iteration in a Scrum team.
 
 
-Please reach out to me during the coaching sessions if you're in need of any assistance! :-)
+Please reach out to me during the coaching sessions if you're in need of any assistance! :smiley:
 
